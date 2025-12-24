@@ -209,7 +209,7 @@ python scripts/collect_data.py
 
 | 모델 | 정확도 | 속도 |
 |------|--------|------|
-| ST-GCN | ~95% | 실시간 |
+| ST-GCN | ~95% | 준실시간 |
 | RandomForest | ~92% | 실시간 |
 | KNN (폴백) | ~85% | 실시간 |
 | Whisper (medium) | ~95% | 준실시간 |
